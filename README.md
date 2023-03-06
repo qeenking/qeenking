@@ -3,7 +3,7 @@
 
 
 <p align="center">
-### Hi there 👋</br>
+Hi there 👋</br>
 I'm GyeongMin. I'm majoring in psychology, and study Front-end Delvelopment</br>
 You don't have to hesitate to contact me anytime
 </p>
