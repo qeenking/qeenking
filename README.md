@@ -9,4 +9,4 @@ You don't have to hesitate to <b>contact me anytime</b>
 </p>
 
 <h3 align="center"><b>Contact</b></h3>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=ffffff"/></a>
+<a href="mailto:qeenking@daum.net" target="_blank"><img src="https://img.shields.io/badge/Daum-EA4335?style=flat-square&logo=D&logoColor=ffffff"/></a>
