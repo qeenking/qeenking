@@ -27,3 +27,5 @@
   <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/D3-276DC3?style=flat-square&logo=R&logoColor=white"/> &nbsp
 <p>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qeenking&show_icons=true&theme=radical)
