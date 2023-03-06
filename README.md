@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=welcome&fontSize=40&fontColor=ffffff&fontAlignY=40" />
+</p>
+   
+<p align="center">
   <img src="https://item.kakaocdn.net/do/9b7b3f4b6511d6f1d5425ee7893b1f329f5287469802eca457586a25a096fd31"><br/>
 <p>
 
