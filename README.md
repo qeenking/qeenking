@@ -11,7 +11,7 @@
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
   <a href="mailto:qeenking@daum.net" target="_blank"><img src="https://img.shields.io/badge/Daum-blue?style=flat-square&logo=D&logoColor=ffffff"/></a> &nbsp
-  <a href="mailto:qeenking40@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=D&logoColor=ffffff"/></a> &nbsp
+  <a href="mailto:qeenking40@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a> &nbsp
   <a href="https://www.instagram.com/gym_0106/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 <p>
   
